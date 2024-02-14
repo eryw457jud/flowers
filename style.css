@@ -94,6 +94,88 @@ body {
   transform: rotate(-15deg);
   animation: moving-flower-3 4s linear infinite;
 }
+
+.animation-flower {
+  animation: moving-flower-1 4s linear infinite;
+
+}
+
+.flower--13 {
+  left: -10rem;
+  bottom: 7rem;
+  z-index: 6;
+  transform: rotate(-8deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+.flower--12 {
+  left: 12rem;
+  bottom: 5rem;
+  z-index: 6;
+  transform: rotate(6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+
+.flower--8 {
+  left: -6rem;
+  bottom: 16rem;
+  z-index: 6;
+  transform: rotate(-6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+.flower--9 {
+  left: 4rem;
+  bottom: 16rem;
+  z-index: 6;
+  transform: rotate(6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+
+.flower--10 {
+  left: 0;
+  bottom: 25rem;
+  z-index: 4;
+  transform: rotate(-6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+.flower--11 {
+  left: -4rem;
+  bottom: 20rem;
+  z-index: 5;
+  transform: rotate(6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+
+.flower--4 {
+  left: 1rem;
+  bottom: 12rem;
+  z-index: 8;
+  transform: rotate(-6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+.flower--5 {
+  left: 3rem;
+  bottom: 10rem;
+  z-index: 8;
+  transform: rotate(6deg) !important;
+  animation: moving-flower-1 4s linear infinite;
+}
+.flower--6 {
+  left: 0;
+  bottom: 10rem;
+  z-index: 8;
+  transform: rotate(-11deg) !important;
+  animation: moving-flower-2 4s linear infinite;
+}
+.flower--7 {
+  left: 0;
+  bottom: 7rem;
+  z-index: 8;
+  transform: rotate(6deg) !important;
+  animation: moving-flower-3 4s linear infinite;
+}
+
+
+
 .flower--3 .flower__line {
   animation-delay: 0.9s;
 }
